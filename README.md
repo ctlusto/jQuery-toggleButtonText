@@ -2,7 +2,7 @@
 
 A really simple, *really* lightweight (go ahead, try and weigh it) plugin that gives your buttons a toggling text label.
 
-Works on both `<input type="button">` and `<button>` elements.  Just label your button as you ordinarily would, and then store the alternate text in a `data-alt-text` attribute.  That's it for the markup.
+Works on both `<input>` and `<button>` elements.  Just label your button as you ordinarily would, and then store the alternate text in a `data-alt-text` attribute.  That's it for the markup.
 
 For example:
 ```html
